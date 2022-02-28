@@ -1,22 +1,10 @@
-# JB-Kotlin-Basics
-JetBrains Kotlin Projects README
-
-TABLE OF CONTENTS
-=================
-Introduction
-README
-Chatty Bot
-Noughts & Crosses
+# jb-kotlin-basics
+JetBrains Kotlin Basics Projects README
 
 INTRODUCTION
 ============
 This repository contains the finished versions of projects written as part of the JetBrains Kotlin Basics track.
 This track can be found at https://hyperskill.org/tracks/18.
-
-README
-======
-Explains the function of the other files in the repository.
-It is the file you are currently reading.
 
 CHATTY BOT
 ==========
